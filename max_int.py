@@ -1,4 +1,4 @@
-n = int(input("Enter the length of the sequence: ")) # Do not change this line
+n = int(input("TESTEnter the length of the sequence: ")) # Do not change this line
 sum = 0
 first = 1
 second = 2
